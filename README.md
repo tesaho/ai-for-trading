@@ -17,4 +17,4 @@ Each folder includes a jupyter notebook with an example of the functions and mat
 [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+See License
